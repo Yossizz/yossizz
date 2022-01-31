@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ## Recent Acitivty
 
-
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
