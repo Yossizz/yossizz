@@ -20,8 +20,5 @@ Here are some ideas to get you started:
 
 ## Recent Acitivty
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
