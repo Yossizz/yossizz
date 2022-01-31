@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Recent Acitivty
+
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
