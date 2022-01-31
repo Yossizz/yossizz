@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 
-#![contrib](./profile-3d-contrib/profile-green-animate.svg)
+<!--![contrib](./profile-3d-contrib/profile-green-animate.svg)-->
